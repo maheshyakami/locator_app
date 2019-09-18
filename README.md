@@ -1,6 +1,10 @@
 # locator_app
 
-A Flutter application.
+A Flutter application integrating Google Maps and currently locates and pins nearby gyms of the users location area.
+
+
+![](20190918_151150.gif)
+
 
 ## Getting Started
 
